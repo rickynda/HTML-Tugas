@@ -1,2 +1,3 @@
-tek-internet.github.io
-======================
+Tugas Teknologi Internet
+===========================
+Dosen = Pak Fuji
