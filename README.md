@@ -1,7 +1,8 @@
 Tugas Teknologi Internet
-===========================
-#Dosen = Pak Fuji
-#Design / Create = M. Ali chamdan (sks13.1)
-#HTML + CSS
-==============================================
+========
+## Dosen Fujiyama
+
+* Nama : Muhammad Ali Chamdan
+* Kelas : SKS13.1
+* NPM : ()
 
