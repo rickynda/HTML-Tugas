@@ -2,7 +2,7 @@ Tugas Teknologi Internet
 ========
 ## Dosen Fujiyama
 
-* Nama : Muhammad Ali Chamdan
+* Nama  : Muhammad Ali Chamdan
 * Kelas : SKS13.1
-* NPM : ()
+* NPM   : 110451320018
 
